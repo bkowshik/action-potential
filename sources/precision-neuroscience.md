@@ -1,0 +1,6 @@
+# Precision Neuroscience
+
+- 2026-06-17 — [Precision Neuroscience™ Wins 2026 Webby Award; Earns Back-to-Back Fast Company World Changing Ideas Honor](https://www.globenewswire.com/news-release/2026/06/17/3313447/0/en/precision-neuroscience-wins-2026-webby-award-earns-back-to-back-fast-company-world-changing-ideas-honor.html)
+- 2026-04-30 — [Precision Neuroscience™ Partners With UChicago Medicine Researchers to Advance Brain–Computer Interface Research](https://www.globenewswire.com/news-release/2026/04/30/3284938/0/en/precision-neuroscience-partners-with-uchicago-medicine-researchers-to-advance-brain-computer-interface-research.html)
+- 2026-04-08 — [Precision Neuroscience™ Appoints Craig Mermel as Chief AI and Data Officer](https://www.globenewswire.com/news-release/2026/04/08/3270181/0/en/Precision-Neuroscience-Appoints-Craig-Mermel-as-Chief-AI-and-Data-Officer.html)
+- 2026-01-12 — [Precision Neuroscience™ and Medtronic Partner to Integrate Layer 7 Brain–Computer Interface with Medtronic Neurosurgical Platform](https://www.globenewswire.com/news-release/2026/01/12/3217312/0/en/precision-neuroscience-and-medtronic-partner-to-integrate-layer-7-brain-computer-interface-with-medtronic-neurosurgical-platform.html)
